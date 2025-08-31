@@ -1,2 +1,2 @@
 # typst-wasm-demo
-Demo website using typst.ts
+Demo website using typst.ts and React.
